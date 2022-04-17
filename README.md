@@ -1,6 +1,6 @@
 # Python Rastgele Şifre Oluşturucu
 
-<img src="/pass.jpg" width="80%" style="text-align:center;">
+<p align="center"><img src="pass.jpg" width="80%" height="116px" /></p>
 
 Kurulum
 =
